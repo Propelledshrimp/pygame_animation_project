@@ -1,0 +1,1 @@
+Idle animation works best with each frame playing twice at 15 fps

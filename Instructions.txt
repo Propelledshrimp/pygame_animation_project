@@ -1,0 +1,4 @@
+Press the left or right arrow key to change the direction of Sonic and the pufferfish 
+Hold down the left or right arrow key to make Sonic go faster 
+Let go of the arrow key and Sonic will slow down to a stop(sometimes he stops a little off screen)  
+Press space to alternate songs (2 as of now) 
